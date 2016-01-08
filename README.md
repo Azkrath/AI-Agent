@@ -1,7 +1,7 @@
 # AI-Agent
 An Artificial Intelligent Agent made on Java, capable of using state space searches to find goal states.
 
-This small project was made in order to solve puzzle tipe games, from an initial state to a final state:
+This small project was made in order to solve puzzle type games, from an initial state to a final state:
 
 Puzzle example:
 
